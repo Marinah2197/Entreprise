@@ -1,13 +1,13 @@
 # Entreprise
 
-##Description
+#Description
 
 Une mini application pour la gestion d'entreprise, incluant les fonctinnalités telles que:
 - authentification
 - inscription
 - CRUD des employés
 
-##Installation
+#Installation
 
 - cloner le projet depuis git
 - copier le dossier du projet dans votre serveur web: dams 'htdocs' si vous utilisez XAMMP et dans 'www' si vous utilisez WAMP
