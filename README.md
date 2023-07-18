@@ -23,3 +23,13 @@ $db['default'] = array(
 	// reste du code
 	);
 - Lancer le projet http://http://localhost/entreprise/index.php/login
+
+#Acces
+
+Admin: 
+matricule: 746H-F
+code d'acces: NuCQZiYFar
+
+Employe
+matricule: 002
+code d'acces: 23HEqPV4wU
